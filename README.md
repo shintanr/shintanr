@@ -1,12 +1,13 @@
-### Hi there 👋
+### Hi, I am Shinta 👋
 
+🌱 I’m currently learning PHP and other interesting technology.
 <!--
 **shintanr/shintanr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Backend Laravel
+- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
