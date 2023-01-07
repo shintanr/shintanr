@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shinta👋</h1>
+<h1 align="center">Hi, I'm Shinta Nurrohmah👋</h1>
 <h3 align="center">I'm an Undergraduate Computer Engineering Student at Diponegoro University</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
