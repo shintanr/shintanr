@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-### I'm Shinta Nurrohmah, a passionate software developer with a particular enthusiasm for Android development. I love coding and exploring new technologies, especially in the realm of mobile app development with Kotlin and Dart.
+### I'm Shinta Nurrohmah, a passionate software developer with a particular enthusiasm for Android development. 
 
 ## 🌱 What I'm Learning
 
