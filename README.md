@@ -44,7 +44,6 @@
 ## 🤝🏻 Connect with Me!
 [![Email: shintanurrohmah143@gmail.com ](https://img.shields.io/badge/-shintanurrohmah143@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:shintanurrohmah143@gmail.com)
 [![LinkedIn: Shinta Nurrohmah](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shintanurrohmah/)](www.linkedin.com/in/shintanurohmah/)&nbsp;
-[![Linktree: betelgeushin](https://img.shields.io/badge/-Linktree-%2300d15b?style=flat&logo=Linktree&logoColor=white&link=https://linktr.ee/betelgeushin)](https://linktr.ee/betelgeushin)&nbsp;
 
 ---
 
