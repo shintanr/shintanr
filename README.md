@@ -19,4 +19,4 @@ Node.js, Java, PHP (Laravel), MySQL, SQL Server, Git, Postman
 
 📫 Contact:
 - Email: shintanurrohmah143@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/shintanurrohmah/
+- LinkedIn: https://www.linkedin.com/in/shintanurohmah/
